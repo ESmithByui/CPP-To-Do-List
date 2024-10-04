@@ -1,2 +1,2 @@
-|Make Video|,|Make video to show how this program works.|,|10/03/2024|,|1|
-|Update Program|,|Get new features into program.|,|10/03/2024|,|0|
+|Demo Program|,|Demonstrate how the program works.|,|10/03/2024|,|0|
+|Clear List|,|Personalize the to_do_program with your own items.|,|10/04/2024|,|0|
